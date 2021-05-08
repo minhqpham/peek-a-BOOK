@@ -1,5 +1,5 @@
 # peek-a-BOOK
-A web-based book review application.
+A web-based book review application. Visit the website [here](https://book-reviews-cs50-project1.herokuapp.com/login).
 
 ## Supported features:
 - User registration/log-in
